@@ -11,6 +11,9 @@ A Flutter mobile application with onboarding screens, location permissions, and 
 - 💾 Persistent storage with GetStorage
 - 🎨 Responsive UI following Figma design
 
+## Preview
+<img width="6000" height="3375" alt="Untitled design" src="https://github.com/user-attachments/assets/26dc7a39-0c5b-4170-997c-3ca54c8b9137" />
+
 ## 🛠️ Tools & Packages Used
 
 ### State Management & Navigation
