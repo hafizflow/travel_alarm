@@ -12,7 +12,7 @@ A Flutter mobile application with onboarding screens, location permissions, and 
 - 🎨 Responsive UI following Figma design
 
 ## Preview
-<img width="6000" height="3375" alt="Untitled design" src="https://github.com/user-attachments/assets/26dc7a39-0c5b-4170-997c-3ca54c8b9137" />
+<img width="2816" height="3428" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/aec7bf3d-7212-4137-a546-0fee65b8b3a7" />
 
 ## 🛠️ Tools & Packages Used
 
