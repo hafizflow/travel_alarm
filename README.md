@@ -153,7 +153,7 @@ This project is created as part of a Flutter developer interview task.
 
 ## 👨‍💻 Author
 
-[Your Name]
+Hafizur Rahman
 
 ---
 

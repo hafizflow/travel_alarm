@@ -27,7 +27,7 @@ void main() async {
       statusBarColor: Colors.white,
       statusBarIconBrightness: Brightness.dark,
       systemNavigationBarColor: AppColors.primaryBlue,
-      systemNavigationBarIconBrightness: Brightness.light,
+      systemNavigationBarIconBrightness: Brightness.dark,
     ),
   );
 
@@ -44,8 +44,7 @@ class MyApp extends StatelessWidget {
     final initialRoute = '/onboarding';
 
     return ScreenUtilInit(
-      designSize: const Size(360, 800), // iPhone 14 Pro size
-      minTextAdapt: true,
+      designSize: const Size(360, 800),
       splitScreenMode: true,
       builder: (context, child) {
         return GetMaterialApp(
