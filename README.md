@@ -14,6 +14,8 @@ A Flutter mobile application with onboarding screens, location permissions, and 
 ## Preview
 <img width="2816" height="3428" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/aec7bf3d-7212-4137-a546-0fee65b8b3a7" />
 
+## Video link: https://www.loom.com/share/0fe81d5c423847d5a75c8ad6810ae420
+
 ## 🛠️ Tools & Packages Used
 
 ### State Management & Navigation
